@@ -1,4 +1,4 @@
-# IntroToPython
+# Intro To Python
 Examples of Python Programs
 
 These are examples of Python programs for my Programming in Python YouTube playlist: 
